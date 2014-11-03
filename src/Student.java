@@ -11,6 +11,6 @@ public class Student {
 	
 	public void print(){
 		
-		System.out.print("MyName: " + name);
+		System.out.print("My Name is: " + name);
 	}
 }
